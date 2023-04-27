@@ -43,7 +43,7 @@ Write about 1-2 paragraphs describing the purpose of your bot.
 
 ## 🎥 Demo / Working <a name = "demo"></a>
 
-![Working](https://media3.giphy.com/media/n8awua33xgS3CVxb1f/giphy.gif?cid=ecf05e47ymtz9lpxw8sa94cmmsanqn9v1jkd7xl6n2ot7kqv&ep=v1_gifs_related&rid=giphy.gif&ct=g)
+![Working](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYThmMjg1ZjgwNGZhYWZlYjcyNDZlMGU4ZDAzNzM2NWU3ZTU1MjVlNyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/5k1Wu87CzkDfrx0Xwj/giphy.gif)
 
 ## 💭 How it works <a name = "working"></a>
 
