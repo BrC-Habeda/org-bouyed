@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://cbcontinuum.xyz">
-        <img src="https://https://github.com/org-bouyed/org-bouyed/blob/f96dcbf55a541a8aed9c205b36bc891dfcb9cba5/erp_logo.png" height="128">
+        <img src="https://github.com/org-bouyed/org-bouyed/blob/f96dcbf55a541a8aed9c205b36bc891dfcb9cba5/erp_logo.png" height="128">
     </a>
     <h2>ERPA</h2>
     <p align="center">
