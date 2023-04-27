@@ -6,15 +6,6 @@
     <p align="center">
         <p>ERP made simple</p>
     </p>
-
-[![CI](https://github.com/erpa/erpa/actions/workflows/server-tests.yml/badge.svg?branch=develop)](https://github.com/erpa/erpa/actions/workflows/server-tests.yml)
-[![UI](https://github.com/erpa/erpa_ui_tests/actions/workflows/ui-tests.yml/badge.svg?branch=develop&event=schedule)](https://github.com/erpa/erpa_ui_tests/actions/workflows/ui-tests.yml)
-[![Open Source Helpers](https://www.codetriage.com/erpa/erpa/badges/users.svg)](https://www.codetriage.com/erpa/erpa)
-[![codecov](https://codecov.io/gh/erpa/erpa/branch/develop/graph/badge.svg?token=0TwvyUg3I5)](https://codecov.io/gh/erpa/erpa)
-[![docker pulls](https://img.shields.io/docker/pulls/erpa/erpa-worker.svg)](https://hub.docker.com/r/erpa/erpa-worker)
-
-[https://cbcontinuum.xyz](https://cbcontinuum.xyz)
-
 </div>
 
 ERPA as a monolith includes the following areas for managing businesses:
