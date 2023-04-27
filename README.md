@@ -23,17 +23,19 @@
 
 ## 📝 Table of Contents
 
-- [About](#about)
-- [Demo / Working](#demo)
-- [How it works](#working)
-- [Usage](#usage)
-- [Getting Started](#getting_started)
-- [Deploying your own bot](#deployment)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [📝 Table of Contents](#-table-of-contents)
+- [🧐 About ](#-about-)
+- [🎥 Demo / Working ](#-demo--working-)
+- [💭 How it works ](#-how-it-works-)
+- [🎈 Usage ](#-usage-)
+  - [Example:](#example)
+- [🏁 Getting Started ](#-getting-started-)
+  - [Prerequisites](#prerequisites)
+  - [Installing](#installing)
+- [🚀 Deploying your own bot ](#-deploying-your-own-bot-)
+- [⛏️ Built Using ](#️-built-using-)
+- [✍️ Authors ](#️-authors-)
+- [🎉 Acknowledgements ](#-acknowledgements-)
 
 ## 🧐 About <a name = "about"></a>
 
@@ -41,7 +43,7 @@ Write about 1-2 paragraphs describing the purpose of your bot.
 
 ## 🎥 Demo / Working <a name = "demo"></a>
 
-![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
+![Working](https://media3.giphy.com/media/n8awua33xgS3CVxb1f/giphy.gif?cid=ecf05e47ymtz9lpxw8sa94cmmsanqn9v1jkd7xl6n2ot7kqv&ep=v1_gifs_related&rid=giphy.gif&ct=g)
 
 ## 💭 How it works <a name = "working"></a>
 
