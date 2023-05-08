@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/FxL5qM0.jpg" alt="Bot logo"></a>
 </p>
 
-<h3 align="center">New Project Title</h3>
+<h3 align="center">Amazing Project Title</h3>
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ---
 
-<p align="center"> 🤖 Few lines describing what your bot does.
+<p align="center"> 🤖 The bot makes sure that all the components that have been created meet specified criteria.
     <br> 
 </p>
 
